@@ -1,12 +1,12 @@
 def count(values):
-    zero = 0
+    zero1 = 0
     ones = 0
     for value in values:
         if int(value) == 0:
-            zero += 1
+            zero1 += 1
         else:
             ones += 1
-    return zero, ones
+    return zer1o, ones
 
 
 def part_one():
